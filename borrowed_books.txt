@@ -1,0 +1,3 @@
+registrationNumber,isbn
+w,[w]
+54ROB001,[38112, 38112]
